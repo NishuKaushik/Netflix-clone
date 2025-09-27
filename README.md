@@ -6,13 +6,14 @@ This project replicates the **front page of Netflix** with responsive design, FA
 ---
 
 ## 🚀 Live Demo
-👉 [View Live Site]()  
+👉 [View Live Site](https://leafy-starburst-c8bce1.netlify.app/)  
 
 ---
 
 ## 📸 Demo Preview  
 
 ![Netflix Clone Demo](assets/demo.gif)  
+
 
 ---
 
