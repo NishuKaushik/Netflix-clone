@@ -8,16 +8,25 @@ This project replicates the **front page of Netflix** with responsive design, FA
 ## 🚀 Live Demo
 👉 [View Live Site](https://leafy-starburst-c8bce1.netlify.app/)  
 
----
-
-## 📸 Demo Preview  
-
-![Netflix Clone Demo](assets/demo.gif)  
-
 
 ---
+
+## 📸  Preview  
+<img width="926" height="439" alt="image" src="https://github.com/user-attachments/assets/0638dc4a-bd40-4329-9ed3-b0ebfed20d0e" />
+
+<img width="929" height="439" alt="image" src="https://github.com/user-attachments/assets/e802050a-8b85-41dd-a312-eb7b8ced8dee" />
+
+<img width="928" height="445" alt="image" src="https://github.com/user-attachments/assets/f3ba7b9d-5bd7-4d6d-aa7a-4686d88058ce" />
+
+<img width="917" height="439" alt="image" src="https://github.com/user-attachments/assets/d6836630-f3f6-408e-9279-4834bd686e26" />
+
+---
+
+
 
 ## 📌 Features
+
+
 - 🔥 Netflix-style **landing page UI**
 - 📱 **Responsive design** (mobile, tablet, desktop)
 - 🎥 Auto-playing videos when visible
